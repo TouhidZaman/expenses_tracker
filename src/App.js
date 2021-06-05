@@ -13,7 +13,25 @@ const INITIAL_EXPENSES = [
     id: 'e2',
     title: 'Car Insurance',
     amount: 294.67,
+    date: new Date(2020, 3, 28)
+  },
+  {
+    id: 'e3',
+    title: 'New Android Mobile',
+    amount: 694,
     date: new Date(2021, 2, 28)
+  },
+  {
+    id: 'e4',
+    title: 'Samsung TV',
+    amount: 500,
+    date: new Date(2021, 5, 13)
+  },
+  {
+    id: 'e5',
+    title: 'Walton AC 150TON',
+    amount: 600,
+    date: new Date(2021, 9, 8)
   }
 ]
 
